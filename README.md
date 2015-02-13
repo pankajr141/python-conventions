@@ -2,7 +2,7 @@ python-conventions
 ==================
 
 Module focus on forcing some python conventions to the programm. Its can be used to make your programm better.
-
+Here we are using metaclasses to change the overall properties of a class
 #### Installation
 
 ```shell
